@@ -1,0 +1,13 @@
+#app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100svh;
+}
+
+.card {
+  height: 200px;
+  width: 500px;
+  background-color: aquamarine;
+  border: 1px solid grey;
+}
