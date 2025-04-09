@@ -1,4 +1,4 @@
-1 - I created a folder called mdules (./src/modules). I am going to create this memory game on a modular approach using vite.
+1 - I created a folder called modules (./src/modules). I am going to create this memory game on a modular approach using vite.
 Inside this modulas folder there are the following js files:
 a) dom.js #HANDLING THE DOM
 renderCards()
